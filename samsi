@@ -704,13 +704,13 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b
 
 <============================ Sports ========================>
 
-#EXTINF:-1 tvg-id= "SPOTV HD - [Channel 427].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.digitaltveurope.com/files/2022/02/intro_logo-768x267.jpg" group-title="Sports",SpoTV
+#EXTINF:-1 tvg-id= "SPOTV HD - [Channel 427].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/09/SPOTV_LOGO-01-w-2.png?auto=compress,format&crop=faces,entropy,edges&fit=crop&w=300&h=150" group-title="Sports",SpoTV
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 
-#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://seeklogo.com/images/S/spo-tv-2-logo-8E2859F55D-seeklogo.com.png" group-title="Sports",SpoTV 2
+#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="data:image/png;base64,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" group-title="Sports",SpoTV 2
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="Sports",Soccer Channel-HD
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="Sports",Soccer Channel-HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -718,44 +718,49 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti
 
 
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/09/Sky-Sports-F1-2020-logo-250.png" tvg-logo="",SkySport F1
-http://mohdtv.com:8880/ALLChannels681def0aad0f/43892529/2876
+http://shareext@15.235.181.35/live.ts?channelId=282&uid=14505&deviceMac=00:1A:79:A7:53:75&id=skysportf1
+
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/320px-Sky_Sport_MotoGP_-_Logo_2020.svg.png" tvg-logo="",SkySport Moto GP
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/9880
+
 
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2024/02/SKY-SPORTS-TENNIS-250x120-1.png" tvg-logo="",SkySport Tennis
-http://mohdtv.com:8880/ALLChannels681def0aad0f/43892529/28467
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304258
 
-#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://ia800808.us.archive.org/17/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png",SkySport PREMIER LEAGUE
-http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/266
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://www.pngfind.com/pngs/m/579-5790958_sky-sports-news-hd-png-download.png",SkySport Premier League
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9891.ts
 
 
 
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://media.dunkest.com/2021/05/05215917/sky-sport-nba-1024x390.jpg" tvg-logo="",SkySport NBA
-http://mohdtv.com:8880/ALLChannels681def0aad0f/43892529/28473
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/1047
 
 
 #EXTINF:-1 tvg-id="Fight Sports - [Channel 304].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="Sports",Fight Sports
 https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8?c
 
-#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/ufc-ultimate-fighting-championship3349.jpg",UFC CHANNEL
-http://vo01.mohdtv.com:8880/live/ALLChannels681def0aad0f/43892529/3084.ts
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/ufc-ultimate-fighting-championship3349.jpg",UFC
+http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/146291.ts
 
-#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://seeklogo.com/images/W/WWE-logo-99A1233D25-seeklogo.com.png",WWE CHANNEL
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://seeklogo.com/images/W/WWE-logo-99A1233D25-seeklogo.com.png",WWE
 http://Supersonictv.live:8080/live/006779/439866/22185.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports",Astro Supersport
-http://mohdtv.com:8880/ALLChannels681def0aad0f/43892529/59220
+http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1722
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports",Astro Supersport 1
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/166.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sports",Astro Supersport 2
-http://mohdtv.com:8880/ALLChannels681def0aad0f/43892529/59219
+http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1721
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="Sports",Astro Supersport 3
-http://mohdtv.com:8880/ALLChannels681def0aad0f/43892529/59218
+http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1720
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="Sports",Astro Supersport 4
-http://mohdtv.com:8880/ALLChannels681def0aad0f/43892529/59217
+http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1719
 
 
 
