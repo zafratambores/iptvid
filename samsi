@@ -40,7 +40,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels",SCTV
-https://mantul.biz.id:443/aruba/aruba/432
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 
 
@@ -85,7 +85,7 @@ http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8?virtualDomain=00
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.indonesiacantik.co.id/wp-content/uploads/2018/10/RTV-Logo.jpg" group-title="Indonesia Channels",RTV
-https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
 #EXTINF:-1 group-title="Indonesia Channels"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/MaxStream.png",MAXSTREAM
 https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8
@@ -116,7 +116,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://logodix.com/logo/1946951.jpg", iNews
-https://dsgtq5sngxkde.cloudfront.net/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8?c
+http://iptv12k.com:35461/654321/123456/1799
 
 
 
@@ -138,7 +138,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="Indonesia Channels",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1512
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
 
 
 
@@ -160,7 +160,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ForIDX/sa_dash_scte35/ForIDX.mpd
 
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1200px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png" group-title="Indonesia Channels",GarudaTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
+https://hgmtv.com:19360/garudatvlivestreaming/480p.m3u8
 
 #EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" group-title="Indonesia Channels" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/244px-BTV_%28Indonesia%29_logo.svg.png",BTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -352,21 +352,21 @@ https://melon-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 
 
 #EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="Premium Movies",HBO
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/210
+http://iptv12k.com:35461/654321/123456/1748
 
 
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Premium Movies",HBO Family
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/592
+http://iptv12k.com:35461/654321/123456/1746
 
 
 
 
 
 #EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Premium Movies",HBO Signature
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/873
+http://iptv12k.com:35461/654321/123456/2118
 
 
 
